@@ -7,6 +7,5 @@ setup(
     description="",
     install_requires=[
         "pandas",
-        "requests",
     ] 
 )
